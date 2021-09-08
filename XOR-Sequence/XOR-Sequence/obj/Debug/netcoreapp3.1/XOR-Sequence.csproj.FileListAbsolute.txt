@@ -1,0 +1,13 @@
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\obj\Debug\netcoreapp3.1\XOR-Sequence.csproj.AssemblyReference.cache
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\obj\Debug\netcoreapp3.1\XOR-Sequence.AssemblyInfoInputs.cache
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\obj\Debug\netcoreapp3.1\XOR-Sequence.AssemblyInfo.cs
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\obj\Debug\netcoreapp3.1\XOR-Sequence.csproj.CoreCompileInputs.cache
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\bin\Debug\netcoreapp3.1\XOR-Sequence.exe
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\bin\Debug\netcoreapp3.1\XOR-Sequence.deps.json
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\bin\Debug\netcoreapp3.1\XOR-Sequence.runtimeconfig.json
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\bin\Debug\netcoreapp3.1\XOR-Sequence.runtimeconfig.dev.json
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\bin\Debug\netcoreapp3.1\XOR-Sequence.dll
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\bin\Debug\netcoreapp3.1\XOR-Sequence.pdb
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\obj\Debug\netcoreapp3.1\XOR-Sequence.dll
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\obj\Debug\netcoreapp3.1\XOR-Sequence.pdb
+C:\Users\philipst\source\repos\XOR-Sequence\XOR-Sequence\obj\Debug\netcoreapp3.1\XOR-Sequence.genruntimeconfig.cache
